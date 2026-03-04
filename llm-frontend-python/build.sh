@@ -1,2 +1,2 @@
-  docker build --platform linux/arm64 -t darryl1975/llm-frontend-python:latest .        
-  docker push darryl1975/llm-frontend-python:latest 
+  docker build --platform linux/arm64 -t zuweitrack/llm-frontend-python:latest .        
+  docker push zuweitrack/llm-frontend-python:latest 
